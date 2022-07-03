@@ -1,3 +1,10 @@
+/*
+ \file		turnmove.c
+ \author	MOHAMMAD HABIB SHAH ERSHAD BIN MOHD AZRUL SHAZRIL
+ \date		2/7/2022
+ \brief		Robot will move and turn based on the user input
+*/
+
 
 #include <ev3.h>
 #include <string.h>
